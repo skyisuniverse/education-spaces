@@ -1,0 +1,92 @@
+export const itemData = [
+  {
+    title: "Architecture Decision Records",
+    slug: "architecture-decision-records",
+    width: 800,
+    height: 1200,
+  },
+  {
+    title: "Knowledge base",
+    slug: "knowledge-base",
+    width: 900,
+    height: 600,
+  },
+  {
+    title: "Git Spaces",
+    slug: "git-spaces",
+    width: 800,
+    height: 1000,
+  },
+  {
+    title: "Ticket System",
+    slug: "ticket-system",
+    width: 700,
+    height: 900,
+  },
+  {
+    title: "AI Spaces",
+    slug: "ai-spaces",
+    width: 600,
+    height: 800,
+  },
+  {
+    title: "Spaces",
+    slug: "spaces",
+    width: 1100,
+    height: 600,
+  },
+  {
+    title: "Extended Spaces",
+    slug: "extended-spaces",
+    width: 800,
+    height: 1100,
+  },
+  {
+    title: "Video Spaces",
+    slug: "video-spaces",
+    width: 750,
+    height: 950,
+  },
+  {
+    title: "Freelance Spaces",
+    slug: "freelance-spaces",
+    width: 950,
+    height: 650,
+  },
+  {
+    title: "Jobs Spaces",
+    slug: "jobs-spaces",
+    width: 1200,
+    height: 800,
+  },
+  {
+    title: "Business Spaces",
+    slug: "business-spaces",
+    width: 800,
+    height: 1200,
+  },
+  {
+    title: "Trade Spaces",
+    slug: "trade-spaces",
+    width: 900,
+    height: 600,
+  },
+  {
+    title: "Dating Spaces",
+    slug: "dating-spaces",
+    width: 800,
+    height: 1000,
+  },
+  {
+    title: "Delivery Spaces",
+    slug: "delivery-spaces",
+    width: 950,
+    height: 650,
+  },
+  {
+    title: "Art Spaces",
+    slug: "art-spaces",
+    width: 1200,
+    height: 800,
+  },
+];
